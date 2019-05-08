@@ -10,7 +10,7 @@ package week_3;
  * @author grace.reinsel
  */
 public class Sorting {
-    public static void main (String{} rickargs){
+    public static void main (String[] rickargs){
         //we can now test our method
         boolean result;
         int tomato = 60;
